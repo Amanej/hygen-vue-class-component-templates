@@ -10,6 +10,5 @@ Generates a folder with the following
 ## Usage
 
 ``
-    hygen vue-class-component new ListElement --folder Molecu
-les
+    hygen vue-class-component new ListElement --folder Molecules
 ``
