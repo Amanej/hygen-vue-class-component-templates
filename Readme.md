@@ -1,4 +1,4 @@
-# Hygen Generator Templates - Vue Class Components
+# Hygen Generator Templates - Vue
 
 Generates a folder with the following
 
@@ -9,6 +9,21 @@ Generates a folder with the following
 
 ## Usage
 
+### Component
+
+#### Arguments
+* name (required)
+* folder (required)
+
 ``
-    hygen vue-class-component new ListElement --folder Molecules
+    hygen vue-class-component new <component name> --folder <folder name>
+``
+
+### View
+
+#### Arguments
+* name (required)
+
+``
+    hygen vue-view new <name>
 ``
